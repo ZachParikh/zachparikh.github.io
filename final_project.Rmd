@@ -1,5 +1,5 @@
 ---
-title: "CMSC320 Final Project"
+title: "Avocados and Housing for Millenials - A Data Science Tutorial"
 output: html_document
 author: "Ishan Sen & Zachary Parikh"
 ---
